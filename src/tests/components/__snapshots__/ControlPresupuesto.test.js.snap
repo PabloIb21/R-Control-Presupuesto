@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<Fragment>
+  <div
+    className="alert alert-primary"
+  >
+    Presupuesto: $ 
+    1000
+  </div>
+  <div
+    className="alert alert-danger"
+  >
+    Restante: 
+    200
+  </div>
+</Fragment>
+`;
+
+exports[`<ControlPresupuesto /> mount 1`] = `
+<Fragment>
+  <div
+    className="alert alert-primary"
+  >
+    Presupuesto: $ 
+    1000
+  </div>
+  <div
+    className="alert alert-danger"
+  >
+    Restante: 
+    200
+  </div>
+</Fragment>
+`;
+
+exports[`<ControlPresupuesto /> mount component 1`] = `
+<Fragment>
+  <div
+    className="alert alert-primary"
+  >
+    Presupuesto: $ 
+    1000
+  </div>
+  <div
+    className="alert alert-danger"
+  >
+    Restante: 
+    200
+  </div>
+</Fragment>
+`;

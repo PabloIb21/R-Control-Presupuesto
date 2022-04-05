@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Formulario /> mount 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h2>
+    Agrega tus gastos aquí
+  </h2>
+  <div
+    className="campo"
+  >
+    <label>
+      Nombre Gasto
+    </label>
+    <input
+      className="u-full-width"
+      onChange={[Function]}
+      placeholder="Ej. Transporte"
+      type="text"
+      value=""
+    />
+  </div>
+  <div
+    className="campo"
+  >
+    <label>
+      Cantidad Gasto
+    </label>
+    <input
+      className="u-full-width"
+      onChange={[Function]}
+      placeholder="Ej. 300"
+      type="number"
+      value={0}
+    />
+  </div>
+  <input
+    className="button-primary u-full-width"
+    type="submit"
+    value="Agregar Gasto"
+  />
+</form>
+`;

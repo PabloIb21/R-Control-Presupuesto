@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppPage mount 1`] = `
+<div
+  className="container"
+>
+  <header>
+    <h1>
+      Gasto Semanal
+    </h1>
+    <div
+      className="contenido-principal contenido"
+    >
+      Array [
+        <h2>
+          Coloca tu presupuesto
+        </h2>,
+        <form
+          onSubmit={[Function]}
+        >
+          <input
+            className="u-full-width"
+            onChange={[Function]}
+            placeholder="Coloca tu presupuesto"
+            type="number"
+          />
+          <input
+            className="button-primary u-full-width"
+            type="submit"
+            value="Definir presupuesto"
+          />
+        </form>,
+      ]
+    </div>
+  </header>
+</div>
+`;

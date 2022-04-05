@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pregunta /> mount 1`] = `
+Array [
+  <h2>
+    Coloca tu presupuesto
+  </h2>,
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      className="u-full-width"
+      onChange={[Function]}
+      placeholder="Coloca tu presupuesto"
+      type="number"
+    />
+    <input
+      className="button-primary u-full-width"
+      type="submit"
+      value="Definir presupuesto"
+    />
+  </form>,
+]
+`;

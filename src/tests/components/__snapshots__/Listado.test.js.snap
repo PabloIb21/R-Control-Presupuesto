@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Listado /> mount 1`] = `
+<div
+  className="gastos-realizados"
+>
+  <h2>
+    Listado
+  </h2>
+  <li
+    className="gastos"
+  >
+    <p>
+      Transporte
+      <span
+        className="gasto"
+      >
+        $ 
+        300
+      </span>
+    </p>
+  </li>
+  <li
+    className="gastos"
+  >
+    <p>
+      Comida
+      <span
+        className="gasto"
+      >
+        $ 
+        200
+      </span>
+    </p>
+  </li>
+</div>
+`;

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Gasto /> mount 1`] = `
+<li
+  className="gastos"
+>
+  <p>
+    Transporte
+    <span
+      className="gasto"
+    >
+      $ 
+      300
+    </span>
+  </p>
+</li>
+`;
